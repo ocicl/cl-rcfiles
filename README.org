@@ -1,0 +1,9 @@
+* cl-rcfiles
+
+Runtime configuration files support for Common Lisp.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/didierverna/cl-rcfiles.git |
+| commit  | 4127f7c                                             |
+| systems | cl-rcfiles                                          |
+|---------+-----------------------------------------------------|
